@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A697F70-36BE-42E6-B66D-1C195C125887"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA332F2C-2765-49DE-BD7F-594FA0906CC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FunTouch/10th homework/Task2/Task2ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FunTouch/10th homework/Task1/Task1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Task1ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36 - 3f379cae02dd9333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunTouch.Task1ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FunTouch.Task1ViewController"
+                  moduleName = "FunTouch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/makargrushka/Downloads/FunTouch-main/FunTouch/10th%20homework/Task1/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36 - fb17d9aa098b0cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunTouch.Task1ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FunTouch.Task1ViewController"
+                  moduleName = "FunTouch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/makargrushka/Downloads/FunTouch-main/FunTouch/10th%20homework/Task1/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36 - 3f9df090701deaf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunTouch.Task1ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FunTouch.Task1ViewController&gt;"
+                  moduleName = "FunTouch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/makargrushka/Downloads/FunTouch-main/FunTouch/10th%20homework/Task1/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36 - 3ecef5a0e0ca2f7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunTouch.Task1ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FunTouch.Task1ViewController&gt;"
+                  moduleName = "FunTouch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/makargrushka/Downloads/FunTouch-main/FunTouch/10th%20homework/Task1/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "862C8623-EB91-493E-BC08-A45A06FB7E36 - a5de6c80f0acc760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunTouch.Task1ViewController.__deallocating_deinit"
+                  moduleName = "FunTouch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/makargrushka/Downloads/FunTouch-main/FunTouch/10th%20homework/Task1/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
